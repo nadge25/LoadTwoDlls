@@ -1,0 +1,4 @@
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+    <assemblyIdentity name="Netia.CoreRadio.Backbone" processorArchitecture="x86" version="1.0.0.0" type="win32" />
+		<file name = "Backbone.dll"/>
+    </assembly>
